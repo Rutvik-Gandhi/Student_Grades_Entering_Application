@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RutvikGandhiAssignment2</string>
+    <string name="item_grades">Enter Grades</string>
+    <string name="item_improvement">Enter Improvement</string>
+    <string name="item_search">Search Grades</string>
+    <string name="item_list">List Of Students</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="sparray">
+        <item>Course-1</item>
+        <item>Course-2</item>
+        <item>Course-3</item>
+        <item>Course-4</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

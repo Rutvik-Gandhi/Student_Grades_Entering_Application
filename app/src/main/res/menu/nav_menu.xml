@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_grades"
+        android:title="@string/item_grades"/>
+
+    <item
+        android:id="@+id/item_improvement"
+        android:title="@string/item_improvement"/>
+
+    <item
+        android:id="@+id/item_search"
+        android:title="@string/item_search"/>
+
+    <item
+        android:id="@+id/item_list"
+        android:title="@string/item_list"/>
+
+</menu>
